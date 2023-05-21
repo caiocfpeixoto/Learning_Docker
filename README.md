@@ -13,15 +13,15 @@ Neste repositório demonstro como está caminhando meu aprendizado com Docker, d
 
 
 ## Sumário :books:
-* [Trabalhando com containers](https://github.com/caiocfpeixoto/Learning_Docker/edit/main/README.md#--trabalhando-com-containers-snail) :snail:
-* [Criando imagens e avançando em containers](https://github.com/caiocfpeixoto/Learning_Docker/edit/main/README.md#--criando-imagens-e-avan%C3%A7ando-em-containers-snail) :wave:
-* [Introduzindo volumes aos containers](https://github.com/caiocfpeixoto/Learning_Docker/edit/main/README.md#--introduzindo-volumes-aos-containers-snail) :chess_pawn:
-* [Conectando containers com Networks](https://github.com/caiocfpeixoto/Learning_Docker/edit/main/README.md#--conectando-containers-com-networks-snail) :computer:
-* [YAML](https://github.com/caiocfpeixoto/Learning_Docker/edit/main/README.md#--yaml-snail) :desktop_computer:
-* [Gerenciando múltiplos containers com Docker](https://github.com/caiocfpeixoto/Learning_Docker/edit/main/README.md#--gerenciando-m%C3%BAltiplos-containers-com-docker-snail) :shamrock:
-* [Docker Swarm para orquestração](https://github.com/caiocfpeixoto/Learning_Docker/edit/main/README.md#--docker-swarm-para-orquestra%C3%A7%C3%A3o-snail) :four_leaf_clover:
-* [Orquestração com Kubernetes](https://github.com/caiocfpeixoto/Learning_Docker/edit/main/README.md#--orquestra%C3%A7%C3%A3o-com-kubernetes-snail) 
-* [Comandos básicos de terminal](https://github.com/caiocfpeixoto/Learning_Docker/edit/main/README.md#--orquestra%C3%A7%C3%A3o-com-kubernetes-snail)
+* [Trabalhando com containers](https://github.com/caiocfpeixoto/Learning_Docker#--trabalhando-com-containers-snail) :snail:
+* [Criando imagens e avançando em containers](https://github.com/caiocfpeixoto/Learning_Docker#--criando-imagens-e-avan%C3%A7ando-em-containers-snail) :wave:
+* [Introduzindo volumes aos containers](https://github.com/caiocfpeixoto/Learning_Docker#--introduzindo-volumes-aos-containers-snail) :chess_pawn:
+* [Conectando containers com Networks](https://github.com/caiocfpeixoto/Learning_Docker#--conectando-containers-com-networks-snail) :computer:
+* [YAML](https://github.com/caiocfpeixoto/Learning_Docker#--yaml-snail) :desktop_computer:
+* [Gerenciando múltiplos containers com Docker](https://github.com/caiocfpeixoto/Learning_Docker#--gerenciando-m%C3%BAltiplos-containers-com-docker-snail) :shamrock:
+* [Docker Swarm para orquestração](https://github.com/caiocfpeixoto/Learning_Docker#--docker-swarm-para-orquestra%C3%A7%C3%A3o-snail) :four_leaf_clover:
+* [Orquestração com Kubernetes](https://github.com/caiocfpeixoto/Learning_Docker#--orquestra%C3%A7%C3%A3o-com-kubernetes-snail) 
+* [Comandos básicos de terminal](https://github.com/caiocfpeixoto/Learning_Docker#--orquestra%C3%A7%C3%A3o-com-kubernetes-snail)
 
 <h2 align="center">
   <p align="center">Trabalhando com containers :snail:</p>
